@@ -41,3 +41,8 @@ Simlas is an unofficial fan-made companion project for *The Witcher TRPG*.
 It is not affiliated with or endorsed by CD PROJEKT RED, R. Talsorian Games, or the owners of *The Witcher* intellectual property.
 
 This documentation does not reproduce game books or private source material.
+
+## Legal
+
+- [Privacy Policy](docs/PRIVACY_POLICY.md)
+- [Terms of Service](docs/TERMS_OF_SERVICE.md)
